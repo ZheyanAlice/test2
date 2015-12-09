@@ -9,7 +9,7 @@ class Mongo():
     def populate(self):
         self.db.things.remove()
         things = [
-            {"name": "Vishnuvbhgv"},
+            {"name": "Vv"},
             {"name": "Lakshmi"},
             {"name": "Ganesha"},
             {"name": "Krishna"},
